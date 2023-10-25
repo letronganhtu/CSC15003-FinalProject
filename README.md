@@ -1,3 +1,5 @@
+Paper: [How to Leak a Secret (ASIACRYPT 2001)](https://link.springer.com/chapter/10.1007/3-540-45682-1_32)
+
 ## Cấu trúc file `'public_key.txt'`
 - Mỗi dòng là tên || n = pq (khoá công khai mặc định là e = 65537 nên không cần lưu giá trị này)
 
